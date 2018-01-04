@@ -1,0 +1,25 @@
+{
+  "name": "mongo-cli-fixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonbrettcox/mongo-cli-fixed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonbrettcox/mongo-cli-fixed/issues"
+  },
+  "homepage": "https://github.com/jasonbrettcox/mongo-cli-fixed#readme",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.34",
+    "prompt-sync": "^4.1.5"
+  }
+}
